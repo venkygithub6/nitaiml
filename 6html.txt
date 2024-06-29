@@ -1,0 +1,18 @@
+<html>
+<head>
+<tittle>
+<stylt>
+h\<
+text align center colour blue
+<style>
+<head>
+<\body>
+<h\>
+hello world this is red
+<h\>
+skill lab
+<h\>
+hello world this is blue
+<\h2>
+<\body>
+<html>
